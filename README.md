@@ -1,1 +1,1 @@
-# expandin-card
+# expanding-card
